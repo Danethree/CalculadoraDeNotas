@@ -100,6 +100,7 @@
         android:layout_centerHorizontal="true"
         android:layout_below="@+id/faltas"
         android:layout_margin="30dp"
+
         android:padding="25dp"
         android:text="Calcular Nota"
         android:backgroundTint="@color/dark_gray"
